@@ -1,2 +1,3 @@
 # profin_PH
 Este es un proyecto de realización de una aplicación para identificación de notas musicales para la materia procesamiento del habla
+El reconocimiento de notas musicales involucra análisis y la clasificación de señales de audio. TensorFlow es una eficaz biblioteca para construir modelos de aprendizaje automático, que si bien no proporciona una solución definitiva para usarla en el reconocimiento de notas musicales brinda una muy buena posibilidad. Este Software esta diseñado para una aplicación de reconocimiento e identificación de notas musicales para el estudio de instrumentos musicales y voz.
